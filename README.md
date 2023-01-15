@@ -1,5 +1,20 @@
-<div >
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="200"/> Учебный проект Евклид
-</div>
+<h2>
+  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" height="200"/>
+</h2>
 
+### Что использовал при вёрстке проекта [Евклид](https://shassdooit.github.io/evclid-landing/#)
 
+- Методология [БЭМ](https://ru.bem.info/methodology/)
+- Адаптивная,кроссбраузерная вёрстка 
+- Классический CSS без препроцессоров
+- Библиотека: [Swiper](https://swiperjs.com/)
+- Плагин [Accordion](https://github.com/michu2k/Accordion)
+- Ванильный JavaScript и работа через DOM: Табы,поиск,бургер-меню
+
+#### Оптимизация сайта 
+
+- Проверка скорости загрузки сайта и метрик через DevTools,Lighthouse
+- Форматирование изображения в формат Webp через сервис [Squoosh](https://squoosh.app/) сжатие без визуальной потери качества
+- Оптимизация загрузки шрифтов через Preload 
+- Минификация html,css,js файлов
+- Изображения подключенны тэгом Picture и background(менятся размеры изображений на медиазапросах). 
