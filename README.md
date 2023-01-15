@@ -18,3 +18,5 @@
 - Оптимизация загрузки шрифтов через Preload 
 - Минификация html,css,js файлов
 - Изображения подключенны тэгом Picture и background(менятся размеры изображений на медиазапросах). 
+
+Спасибо за просмотр [Ссылка на макет в Figma](https://www.figma.com/file/9ZBnSDaQlGmp4CcvgxVQwR/Cld?node-id=406480%3A4006&t=OUnOQfb49Cek8W84-0)
