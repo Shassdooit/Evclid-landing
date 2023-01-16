@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" height="200"/>
 </div>
 
-### Что использовал при вёрстке проекта [Евклид](https://shassdooit.github.io/evclid-landing/#)
+### Что использовал при вёрстке проекта [Евклид](https://shassdooit.github.io/Evclid-landing/#)
 
 - Методология [БЭМ](https://ru.bem.info/methodology/)
 - Адаптивная,кроссбраузерная вёрстка 
